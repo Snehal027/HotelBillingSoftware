@@ -5,7 +5,6 @@ A full-stack billing system application built with Node.js/Express for the backe
 
 ## 🚀 Features
 
-- User Authentication (Login, Register)
 - Table and Room Management
 - Order Placement and History
 - RESTful API structure
@@ -19,12 +18,12 @@ A full-stack billing system application built with Node.js/Express for the backe
 - Express.js
 - MongoDB
 - Mongoose
-- JWT for Authentication
-- Dotenv for environment configuration
+
 
 ### Frontend:
-- (Please specify: React, Vue, etc. — currently unspecified in this structure)
-
+- HTML
+- CSS
+- React
 ## 📁 Project Structure
 
 Billing 2.0/
